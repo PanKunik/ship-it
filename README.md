@@ -38,6 +38,23 @@ ShipIt focuses on one thing:
 
 ---
 
+## Non-goals
+
+ShipIt is **not**:
+
+- a Kubernetes replacement
+- a PaaS
+- a Docker management tool
+- a monitoring platform
+- a reverse proxy manager
+- a CI server
+
+It only solves one problem:
+
+**Deploy Docker Compose applications running on a VPS.**
+
+---
+
 ## Philosophy
 
 ShipIt is built around a few simple principles:
@@ -55,5 +72,16 @@ ShipIt is built around a few simple principles:
 🚧 Early development.
 
 The project is not ready for production use yet.
+
+## Roadmap
+
+- [ ] Discover applications
+- [ ] Docker integration
+- [ ] GHCR image detection
+- [ ] One-click deployment
+- [ ] Deployment history
+- [ ] Rollback
+- [ ] Health checks
+- [ ] Auto deploy
 
 Contributions, ideas and feedback are welcome.
