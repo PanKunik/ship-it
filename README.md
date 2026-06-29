@@ -73,15 +73,4 @@ ShipIt is built around a few simple principles:
 
 The project is not ready for production use yet.
 
-## Roadmap
-
-- [ ] Discover applications
-- [ ] Docker integration
-- [ ] GHCR image detection
-- [ ] One-click deployment
-- [ ] Deployment history
-- [ ] Rollback
-- [ ] Health checks
-- [ ] Auto deploy
-
 Contributions, ideas and feedback are welcome.
