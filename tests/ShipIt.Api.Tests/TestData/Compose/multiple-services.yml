@@ -1,0 +1,9 @@
+﻿services:
+  api:
+    image: ghcr.io/pankunik/crm-api:latest
+
+  db:
+    image: postgres:17
+
+  redis:
+    image: redis:8
