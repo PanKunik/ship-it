@@ -1,0 +1,8 @@
+﻿services:
+  api:
+    image: nginx
+    restart: unless-stopped
+    environment:
+      TEST: value
+    labels:
+      traefik.enable: "true"
